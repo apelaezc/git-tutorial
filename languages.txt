@@ -1,5 +1,3 @@
-Cambios
-
-C
-Java
-ADA
+C - medium
+Java - medium
+ADA - strong
