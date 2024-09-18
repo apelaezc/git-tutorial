@@ -1,5 +1,8 @@
-Cambios
+Programming languages:
 
 C
 Java
 ADA
+
+Foreign languages:
+English
