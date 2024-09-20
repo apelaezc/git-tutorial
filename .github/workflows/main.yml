@@ -1,3 +1,4 @@
+```yaml
 name: Hola Mundo Workflow
 on:
 push:
@@ -9,3 +10,4 @@ runs-on: ubuntu-latest
 steps:
 - name: Print greeting
 run: echo "Hola Mundo!"
+...
