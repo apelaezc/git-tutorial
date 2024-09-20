@@ -1,4 +1,3 @@
-```yaml
 name: Hola Mundo Workflow
 on:
 push:
